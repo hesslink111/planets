@@ -1,0 +1,14 @@
+/Users/will/Downloads/Demos-master/VSCode/CSProjDemo/Demo/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/will/Downloads/Demos-master/VSCode/CSProjDemo/Demo/bin/Debug/Demo.dll.mdb
+/Users/will/Downloads/Demos-master/VSCode/CSProjDemo/Demo/bin/Debug/Demo.dll
+/Users/will/Downloads/Demos-master/VSCode/CSProjDemo/Demo/obj/Debug/Demo.dll
+/Users/will/Downloads/Demos-master/VSCode/CSProjDemo/Demo/obj/Debug/Demo.dll.mdb
+/Users/will/Downloads/Demos-master/VSCode/CSProjDemo/Demo/bin/Debug/Bridge.dll
+/Users/will/Downloads/Demos-master/VSCode/CSProjDemo/Demo/bin/Debug/Bridge.Html5.dll
+/Users/will/Desktop/summer2016/olderprojects/planetsCSHARP/Demo/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/will/Desktop/summer2016/olderprojects/planetsCSHARP/Demo/bin/Debug/Demo.dll.mdb
+/Users/will/Desktop/summer2016/olderprojects/planetsCSHARP/Demo/bin/Debug/Demo.dll
+/Users/will/Desktop/summer2016/olderprojects/planetsCSHARP/Demo/obj/Debug/Demo.dll
+/Users/will/Desktop/summer2016/olderprojects/planetsCSHARP/Demo/obj/Debug/Demo.dll.mdb
+/Users/will/Desktop/summer2016/olderprojects/planetsCSHARP/Demo/bin/Debug/Bridge.dll
+/Users/will/Desktop/summer2016/olderprojects/planetsCSHARP/Demo/bin/Debug/Bridge.Html5.dll
